@@ -199,3 +199,25 @@
     Ctrl + K Z
 
 ---
+
+### Debug
+
+#### 1. Toggle breakpoint
+    F9
+
+#### 2. Start / continue debugging
+    F5
+
+#### 3. Stop debugging
+    Shift + F5 
+
+#### 4. Step into / out
+    F11 / Shift + F11
+
+#### 5. Step over
+    F10
+    
+#### 6. Show hover
+    Ctrl + K Ctrl + I
+
+---
