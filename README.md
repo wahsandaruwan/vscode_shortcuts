@@ -333,3 +333,26 @@
     F2
 
 ---
+
+### Editor management
+
+#### 1. Close editor
+    Ctrl + W
+
+#### 2. Close folder
+    Ctrl + K F
+
+#### 3. Split editor
+    Ctrl + \
+
+#### 4. Focus editor group
+    Ctrl + 1 / 2 / 3
+
+#### 5. Focus into previous / next editor group
+    Ctrl + K Ctrl + LeftArrow / RightArrow
+
+#### 6. Move editor left / right
+    Ctrl + Shift + PageUp / PageDown
+
+#### 7. Move active editor group
+    Ctrl + K LeftArrow / RightArrow
