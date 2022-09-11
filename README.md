@@ -299,3 +299,37 @@
     Shift + Alt + Arrows + PageUp / PageDown
 
 ---
+
+### Rich Languages Editing
+
+#### 1. Trigger suggestions
+    Ctrl + Space or Ctrl + I
+
+#### 2. Trigger parameter hints
+    Ctrl + Shift + Space
+
+#### 3. Format document
+    Shift + Alt + F
+
+#### 4. Format selection
+    Ctrl + K Ctrl + F
+
+#### 5. Go to definition
+    F12
+
+#### 6. Peek definition
+    Alt + F12
+
+#### 7. Open definition to the side
+    Ctrl + K F12
+
+#### 8. Quick fix
+    Ctrl + .
+    
+#### 9. Show references
+    Shift + F12
+
+#### 10. Rename symbol
+    F2
+
+---
