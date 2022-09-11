@@ -122,3 +122,40 @@
     Alt + LeftArrow / RightArrow
 
 ---
+
+### File Management
+
+#### 1. Create a new file
+    Ctrl + N
+
+#### 2. Open file
+    Ctrl + O 
+
+#### 3. Save file
+    Ctrl + S 
+
+#### 4. Save as
+    Ctrl + Shift + S
+
+#### 5. Save all
+    Ctrl + K S
+    
+#### 6. Close editor
+    Ctrl + F4
+
+#### 7. Reopen closed editor
+    Ctrl + Shift + T
+
+#### 8. Close all editors
+    Ctrl + K Ctrl + W
+
+#### 9. Copy path of the active file
+    Ctrl + K P
+
+#### 10. Reveal active file in explorer
+    Ctrl + K R
+
+#### 11. Show the active file in a new window / instance
+    Ctrl + K O
+
+---
