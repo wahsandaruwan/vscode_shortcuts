@@ -246,3 +246,22 @@
     Ctrl + Home / End
 
 ---
+
+### Search and Replace
+
+#### 1. Find
+    Ctrl + F
+
+#### 2. Find and replace
+    Ctrl + H
+
+#### 3. Find next / Previous
+    F3 / Shift + F3
+
+#### 4. Select all occurences of find match
+    Alt + Enter
+
+#### 5. Add selection to next find match
+    Ctrl + D
+
+---
