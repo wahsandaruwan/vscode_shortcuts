@@ -91,3 +91,34 @@
     Alt + Z
 
 ---
+
+### Navigation
+
+#### 1. Show all symbols
+    Ctrl + T
+
+#### 2. Go to line
+    Ctrl + G 
+
+#### 3. Go to file
+    Ctrl + P 
+
+#### 4. Go to symbol
+    Ctrl + Shift + O
+
+#### 5. Show problems panel 
+    Ctrl + Shift + M
+    
+#### 6. Go to next error / warning
+    F8
+
+#### 7. Go to previous error / warning
+    Shift + F8
+
+#### 8. Navigate editor group history
+    Ctrl + Shift + Tab
+
+#### 9. Go back / forward
+    Alt + LeftArrow / RightArrow
+
+---
