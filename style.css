@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li:nth-child(even) {
+  padding: 8px 10px;
+  background-color: #4986bb;
+}
+
+li:nth-child(odd) {
+  padding: 8px 10px;
+  background-color: #ca8435;
+}
