@@ -159,3 +159,43 @@
     Ctrl + K O
 
 ---
+
+### Display
+
+#### 1. Toggle full screen
+    F11
+
+#### 2. Zoom in / out
+    Ctrl + = / - 
+
+#### 3. Toggle sidebar visibility
+    Ctrl + B 
+
+#### 4. Show explorer / Toggle focus
+    Ctrl + Shift + E
+
+#### 5. Show search
+    Ctrl + Shift + F
+    
+#### 6. Show source control
+    Ctrl + Shift + G
+
+#### 7. Show debug
+    Ctrl + Shift + D
+
+#### 8. Show extensions
+    Ctrl + Shift + X
+
+#### 9. Replace in files
+    Ctrl + Shift + H
+
+#### 10. Toggle search details
+    Ctrl + Shift + J
+
+#### 11. Show output panel
+    Ctrl + Shift + U
+
+#### 12. Activate zen mode (Esc to exit)
+    Ctrl + K Z
+
+---
