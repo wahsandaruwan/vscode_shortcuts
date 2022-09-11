@@ -221,3 +221,28 @@
     Ctrl + K Ctrl + I
 
 ---
+
+### Intergrated Terminal
+
+#### 1. Toggle intergrated terminal
+    Ctrl + `
+
+#### 2. Create a new terminal
+    Ctrl + Shift + `
+
+#### 3. Copy selection
+    Ctrl + C
+
+#### 4. Paste into active terminal
+    Ctrl + V
+
+#### 5. Scroll up / down
+    Ctrl + UpArrow / DownArrow
+    
+#### 6. Scroll page up / down
+    Ctrl + PageUp / PageDown
+
+#### 7. Scroll to top / bottom
+    Ctrl + Home / End
+
+---
